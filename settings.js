@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -20,25 +20,25 @@ global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
-global.socialm = "GitHub: Dark" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['254113200483'] //ur owner number
+global.ownername = "ᵏⁱʳᵏ🇦🇱 ⃝🅐︎𝗰𝗲 ɨ𝗇ƒɾα🅱️𝖑αᥴᥴ🔥📵" //ur owner name
+global.ytname = "YT: acejobbie98" //ur yt chanel name
+global.socialm = "GitHub: Acejovinyo" //ur github or insta name
+global.location = "Kenya, Nakuru, Naks" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
+global.ownernomer = "254113200483" //ur number
+global.lang = "EN" //Select Language "EN" to English "SI" to sinhala 
+global.premium = ['254113200483'] //ur premium number
+global.botname = '𝘼𝘾𝙀 🏴‍☠️𝐁𝐎𝐓🏴‍☠️' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.themeemoji = "🇦🇱" //ur theme emoji
+global.packname = "ꀤ_αｍ_🅐︎𝗰𝗲✞︎" //ur sticker watermark packname
+global.author = "ᵏⁱʳᵏ🇦🇱 ⃝🅐︎𝗰𝗲 ɨ𝗇ƒɾα🅱️𝖑αᥴᥴ🔥📵" //ur sticker watermark author9d2733ccb006b7dce8c2794028943a34228b6e88
+global.wm = "Ace Bot Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
